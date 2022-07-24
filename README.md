@@ -18,3 +18,7 @@ After Login Home Page
 Checkout Box
 
 ![screencapture-127-0-0-1-8000-cart-2022-07-24-23_49_24](https://user-images.githubusercontent.com/98261745/180660720-4799a60b-2f76-4f5a-846d-cc39520b19ed.png)
+
+Cart Page After Checkout
+
+![screencapture-127-0-0-1-8000-cart-2022-07-25-00_00_34](https://user-images.githubusercontent.com/98261745/180661342-0cc2d9c3-e8d8-4461-a72d-c922854857ba.png)

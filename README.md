@@ -13,7 +13,7 @@ Login Page
 
 After Login Home Page
 
-![screencapture-127-0-0-1-8000-2022-07-24-23_26_45](https://user-images.githubusercontent.com/98261745/180660188-c5beeae0-95af-4b1a-8906-c5b52ea62424.png)
+![screencapture-127-0-0-1-8000-cart-2022-07-24-23_49_24](https://user-images.githubusercontent.com/98261745/180660798-502f8c79-e7d3-42a7-bf71-19c454a21ca2.png)
 
 Checkout Box
 

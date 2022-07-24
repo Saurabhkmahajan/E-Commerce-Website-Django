@@ -22,3 +22,7 @@ Checkout Box
 Cart Page After Checkout
 
 ![screencapture-127-0-0-1-8000-cart-2022-07-25-00_00_34](https://user-images.githubusercontent.com/98261745/180661342-0cc2d9c3-e8d8-4461-a72d-c922854857ba.png)
+
+Orders Page
+
+![screencapture-127-0-0-1-8000-orders-2022-07-25-00_16_18](https://user-images.githubusercontent.com/98261745/180661520-f87b54e8-f7ee-411c-9725-1c7083cf70ce.png)

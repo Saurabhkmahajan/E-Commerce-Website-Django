@@ -15,3 +15,6 @@ After Login Home Page
 
 ![screencapture-127-0-0-1-8000-2022-07-24-23_26_45](https://user-images.githubusercontent.com/98261745/180660188-c5beeae0-95af-4b1a-8906-c5b52ea62424.png)
 
+Checkout Box
+
+![screencapture-127-0-0-1-8000-2022-07-24-23_26_45](https://user-images.githubusercontent.com/98261745/180660500-695f08b4-c788-45f3-9dbd-2cb4bae05f62.png)
